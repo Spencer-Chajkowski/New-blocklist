@@ -1,4 +1,4 @@
-# Title: StevenBlack/hosts with the fakenews, gambling and porn extensions
+﻿# Title: StevenBlack/hosts with the fakenews, gambling and porn extensions
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
@@ -29,6 +29,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
+
+#Pull Requst Starts here:
+
+0.0.0.0 azbbhe.us
+
+0.0.0.0 baohanhnhakhoaso.com
+
+0.0.0.0 beavercreekfire.org
+
+0.0.0.0 becker-global.com
 
 
 # End of custom host records.
